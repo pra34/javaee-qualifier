@@ -1,9 +1,0 @@
-com\f1soft\qualifier\transportType\MessageTransport.class
-com\f1soft\qualifier\impl\SmsMessageSender.class
-com\f1soft\qualifier\transportType\Message.class
-com\f1soft\qualifier\producer\MessageSenderFactory.class
-com\f1soft\qualifier\resources\MessageSendingResources.class
-com\f1soft\qualifier\transportType\MessageTransportType.class
-com\f1soft\qualifier\configuration\ApplicationConfig.class
-com\f1soft\qualifier\interfaces\MessageSender.class
-com\f1soft\qualifier\impl\EmailMessageSender.class

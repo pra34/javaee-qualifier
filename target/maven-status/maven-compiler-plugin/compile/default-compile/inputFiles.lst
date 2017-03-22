@@ -1,9 +1,0 @@
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\resources\MessageSendingResources.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\transportType\Message.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\impl\SmsMessageSender.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\transportType\MessageTransport.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\configuration\ApplicationConfig.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\interfaces\MessageSender.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\impl\EmailMessageSender.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\transportType\MessageTransportType.java
-C:\Users\pramesh.bhattarai\Desktop\qualifier\src\main\java\com\f1soft\qualifier\producer\MessageSenderFactory.java
